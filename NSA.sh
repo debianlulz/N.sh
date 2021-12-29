@@ -3,8 +3,8 @@
 ###############Made date#################
 #########################################
 #53 68 65 6e 72 6f 6e 20 69 73 20 77 61 74 63 68 69 6e 67 20 79 6f 75 20 2d 20 4e 53 41
-echo -e "\e[0;36mMade by XORA ; XORA@riseup.net\x1b[0m"
-echo -e "\e[0;36mThis version was made on 3/21/2015"
+echo -e "\e[0;36mMade by Savaged ; Savaged@riseup.net\x1b[0m"
+echo -e "\e[0;36mThis version was made on 3/21/2015 and updated 12/29/2021"
 echo -e "\e[0;36mIf you should at any point want to scan using LRAB, check in /etc/.scan and run it"
 echo -e "\e[0;31mUsage: $0 if not executed like this, it will not fucking work."
 echo -e "\e[0;36myou have 5 seconds to cancel this if you fucked up"
@@ -185,7 +185,3 @@ echo "#ulimit set">> .bashrc
 echo "ulimit -u 999999">> .bashrc
 echo "ulimit -n 999999">> .bashrc
 bash
-
-######################################
-###########WOW FUCKING ILLEGAL########
-######################################
